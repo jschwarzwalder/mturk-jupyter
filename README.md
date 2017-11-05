@@ -1,2 +1,5 @@
-# mturk-jupyter
-Jupyter notebooks to make it simple to use Amazon Mechanical Turk
+Mturk Jupyter
+
+## License
+
+This library is licensed under the Apache 2.0 License. 
